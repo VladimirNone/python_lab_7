@@ -1,0 +1,9 @@
+﻿services:
+  web:
+    build: .
+    ports:
+      - "8099:8000"
+    volumes:
+      - .:/app
+    environment:
+      - SQLALCHEMY_DATABASE_URL=sqlite:///./glossary.db

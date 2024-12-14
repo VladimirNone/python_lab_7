@@ -1,0 +1,3 @@
+﻿fastapi[all];
+sqlalchemy;
+alembic;
