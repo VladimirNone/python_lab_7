@@ -4,7 +4,7 @@
 
 1. Клонируйте репозиторий:
   ```bash
-  git clone https://github.com/...
+  git clone https://github.com/VladimirNone/python_lab_7.git
   cd fastapi-glossary
   ```
 2. Соберите и запустите контейнеры:
